@@ -1,12 +1,17 @@
 # ESP8266_SunClock_VB.Net
 Streams a graphic canvas from .Net server to an ESP8266.
 
-The idea being that you create a 32bit full color canvas in the .Net page.
+The idea being that you create a 32bit full color canvas in the .Net page on a server using the full resources of multi-core CPU, fast internet access, 32bit color.
 
-The class **ESP8266Canvas** is used to convert the full color canvas into the RBG 5,6,5 (16 bit) colors of the ST7735 LCD panel.
+Then that canvas is converted to a simple RGB565 image that the ESP8266 requests.
+
+------------------------------
+
+The class **ST7735Canvas** object is used to convert the full color canvas into the RBG 5,6,5 (16 bit) colors of the ST7735 LCD panel.
 The class can also get web images from the internet, and convert them to send to the ESP8266 too!
 
-(I've no idea what the "get script tag values from web page" is doing in there....)
+To do:
+Different ESP's can request different pages that return an image formatted to their specific LCD panel. So a whole range of [LCDName]Canvas.vb files could be written, and the same .Net canvas used as the image source for all of them.
 
 https://www.youtube.com/watch?v=4tJzSSl2Ew8
 
