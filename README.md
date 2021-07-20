@@ -1,9 +1,11 @@
 # ESP8266_SunClock_VB.Net
-Streams a graphic canvas from .Net server to an ESP8266.
+Streams a graphic canvas from .Net server to an ESP8266 connected to a small LCD panel.
 
 The idea being that you create a 32bit full color canvas in the .Net page on a server using the full resources of multi-core CPU, fast internet access, 32bit color.
 
 Then that canvas is converted to a simple RGB565 image that the ESP8266 requests.
+
+Right now only the ST7735 is supported, but I plan to do a M5Stack-Core Grey and Core2 version too.
 
 ------------------------------
 
