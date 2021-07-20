@@ -12,6 +12,8 @@ Right now only the ST7735 is supported, but I plan to do a M5Stack-Core Grey and
 The class **ST7735Canvas** object is used to convert the full color canvas into the RBG 5,6,5 (16 bit) colors of the ST7735 LCD panel.
 The class can also get web images from the internet, and convert them to send to the ESP8266 too!
 
+For debugging - when visited by a PC, adding ?debug to the page request URL will return a PNG rather than the ESP8266 formatted binary data. (which just appears as scrambled text)
+
 To do:
 Different ESP's can request different pages that return an image formatted to their specific LCD panel. So a whole range of [LCDName]Canvas.vb files could be written, and the same .Net canvas used as the image source for all of them.
 
