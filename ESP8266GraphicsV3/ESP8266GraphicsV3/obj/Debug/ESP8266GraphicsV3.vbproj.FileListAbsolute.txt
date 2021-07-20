@@ -1,0 +1,19 @@
+c:\users\sarah\documents\visual studio 2013\Projects\ESP8266GraphicsV3\ESP8266GraphicsV3\obj\Debug\ESP8266GraphicsV3.Resources.resources
+c:\users\sarah\documents\visual studio 2013\Projects\ESP8266GraphicsV3\ESP8266GraphicsV3\obj\Debug\ESP8266GraphicsV3.vbproj.GenerateResource.Cache
+c:\users\sarah\documents\visual studio 2013\Projects\ESP8266GraphicsV3\ESP8266GraphicsV3\bin\ESP8266GraphicsV3.dll.config
+c:\users\sarah\documents\visual studio 2013\Projects\ESP8266GraphicsV3\ESP8266GraphicsV3\bin\ESP8266GraphicsV3.dll
+c:\users\sarah\documents\visual studio 2013\Projects\ESP8266GraphicsV3\ESP8266GraphicsV3\bin\ESP8266GraphicsV3.pdb
+c:\users\sarah\documents\visual studio 2013\Projects\ESP8266GraphicsV3\ESP8266GraphicsV3\bin\ESP8266GraphicsV3.xml
+c:\users\sarah\documents\visual studio 2013\Projects\ESP8266GraphicsV3\ESP8266GraphicsV3\obj\Debug\ESP8266GraphicsV3.dll
+c:\users\sarah\documents\visual studio 2013\Projects\ESP8266GraphicsV3\ESP8266GraphicsV3\obj\Debug\ESP8266GraphicsV3.xml
+c:\users\sarah\documents\visual studio 2013\Projects\ESP8266GraphicsV3\ESP8266GraphicsV3\obj\Debug\ESP8266GraphicsV3.pdb
+C:\MobileApps\Projects\ESP8266GraphicsV3\ESP8266GraphicsV3\bin\ESP8266GraphicsV3.dll.config
+C:\MobileApps\Projects\ESP8266GraphicsV3\ESP8266GraphicsV3\bin\ESP8266GraphicsV3.dll
+C:\MobileApps\Projects\ESP8266GraphicsV3\ESP8266GraphicsV3\bin\ESP8266GraphicsV3.pdb
+C:\MobileApps\Projects\ESP8266GraphicsV3\ESP8266GraphicsV3\bin\ESP8266GraphicsV3.xml
+C:\MobileApps\Projects\ESP8266GraphicsV3\ESP8266GraphicsV3\obj\Debug\ESP8266GraphicsV3.vbprojResolveAssemblyReference.cache
+C:\MobileApps\Projects\ESP8266GraphicsV3\ESP8266GraphicsV3\obj\Debug\ESP8266GraphicsV3.Resources.resources
+C:\MobileApps\Projects\ESP8266GraphicsV3\ESP8266GraphicsV3\obj\Debug\ESP8266GraphicsV3.vbproj.GenerateResource.Cache
+C:\MobileApps\Projects\ESP8266GraphicsV3\ESP8266GraphicsV3\obj\Debug\ESP8266GraphicsV3.dll
+C:\MobileApps\Projects\ESP8266GraphicsV3\ESP8266GraphicsV3\obj\Debug\ESP8266GraphicsV3.xml
+C:\MobileApps\Projects\ESP8266GraphicsV3\ESP8266GraphicsV3\obj\Debug\ESP8266GraphicsV3.pdb
